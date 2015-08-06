@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Application Management -->
+    <string name="app_name">VoiceCommander</string>
+    <!-- <string name="default_robot">rocon</string>-->
+    <string name="default_robot"></string>
+    <!-- Topics and services -->
+    <string name="voice_command_topic">voice_command</string>.
+
+    <string name="ERROR_AUDIO_MESSAGE">오디오 녹음에 문제가 있습니다</string>
+    <string name="ERROR_INSUFFICIENT_PERMISSIONS_MESSAGE">권한에 문제가 있습니다.</string>
+    <string name="ERROR_NETWORK_MESSAGE">네트워크에 문제가 있습니다.</string>
+    <string name="ERROR_NO_MATCH_MESSAGE">올바른 인식결과가 없습니다.</string>
+    <string name="ERROR_RECOGNIZER_BUSY_MESSAGE">인식 서비스가 사용중입니다.</string>
+    <string name="ERROR_SERVER_MESSAGE">오디오 녹음에 문제가 있습니다</string>
+    <string name="ERROR_SPEECH_TIMEOUT_MESSAGE">입력이 없습니다.</string>
+    <string name="TRY_AGAIN"> 다시 시도해주세요.</string>
+
+
+</resources>
