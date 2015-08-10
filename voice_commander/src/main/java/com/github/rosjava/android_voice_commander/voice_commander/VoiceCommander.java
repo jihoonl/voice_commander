@@ -253,6 +253,12 @@ public class VoiceCommander extends RosAppActivity implements View.OnClickListen
         else if(input.contains("위험")){
             return "danger";
         }
+        else if(input.contains("환영")) {
+            return "greeting";
+        }
+        else if(input.contains("소개")) {
+            return "introduce";
+        }
         return "";
     }
 
